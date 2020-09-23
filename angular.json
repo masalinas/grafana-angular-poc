@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-grafana"
+    }
+  },
+  "defaultProject": "my-grafana",
+  "cli": {
+    "analytics": false
+  }
 }
